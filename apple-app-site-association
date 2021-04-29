@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "65GLRX55BA.com.iOS.authDeep",
+                "paths": [ "/oauth/redirect" ]
+            }
+        ]
+    }
+}
